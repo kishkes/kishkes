@@ -4,7 +4,7 @@
 
 🤓 I chose this name for my GitHub because I want to really get into the "guts" of computer networking, C programming, pen-testing, and more!
 
-I'm currently using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 personal projects.
+I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 projects.
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 "𝗡𝗲𝘄 𝗧𝗲𝗿𝗿𝗮𝗶𝗻"   
 `𝘋𝘦𝘷 𝘌𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵 𝘚𝘦𝘵𝘶𝘱/𝘊𝘰𝘯𝘧𝘪𝘨/𝘔𝘢𝘪𝘵𝘢𝘯𝘦𝘯𝘤𝘦`

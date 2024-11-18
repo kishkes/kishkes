@@ -19,7 +19,7 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
         ✅Research and develop plan for how to isolate these VMs into their own environment
         ✅Disconnect each VM from it's current network adapter
         ✅Create a new Network Adapter on each VM
-        ✅Name Network adapter "kisheke-net"
+        ✅Name Network adapter "arman.local"
         ✅Promiscuous mode - DENY
         ✅Enable the new Network Adapter on each VM
         ✅Enable the new Network Adapter on each VMCheck / Set static IP address on each VM

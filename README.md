@@ -28,7 +28,8 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
         ✅Use wireshark to capture packets between VMS.
         
         **DEV**
-        📝Research and Install an IDE for C dev on the VMs
+        ✅Research and Install an IDE for C dev on the VMs - chose VSCode
+        ✅Install and configure VSCode on each machine
         📝Write simple test C program and ensure it runs. Push to git.
         
 

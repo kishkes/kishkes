@@ -17,13 +17,13 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
 
         **NETWORK**
         ✅Research and develop plan for how to isolate these VMs into their own environment
-        📝Disconnect each VM from it's current network adapter
-        📝Create a new Network Adapter on each VM
-        📝Name Network adapter "kisheke-net"
-        📝Promiscuous mode - DENY
-        📝Enable the new Network Adapter on each VM
-        📝Check / Set static IP address on each VM
-        📝Test the connection by using ping command for each IP
+        ✅Disconnect each VM from it's current network adapter
+        ✅Create a new Network Adapter on each VM
+        ✅Name Network adapter "kisheke-net"
+        ✅Promiscuous mode - DENY
+        ✅Enable the new Network Adapter on each VM
+        ✅Enable the new Network Adapter on each VMCheck / Set static IP address on each VM
+        ✅Enable the new Network Adapter on each VMTest the connection by using ping command for each IP
         📝Research network scanner tools
         📝Use tool to find other VM
         

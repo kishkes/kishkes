@@ -29,7 +29,7 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
         
         **DEV**
         ✅Research and Install an IDE for C dev on the VMs - chose VSCode
-        ✅Install and configure VSCode on each machine
+        ✅Install and configure VSCode on kali02
         📝Write simple test C program and ensure it runs. Push to git.
         
 

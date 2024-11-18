@@ -24,8 +24,8 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
         ✅Enable the new Network Adapter on each VM
         ✅Enable the new Network Adapter on each VMCheck / Set static IP address on each VM
         ✅Enable the new Network Adapter on each VMTest the connection by using ping command for each IP
-        📝Research network scanner tools
-        📝Use tool to find other VM
+        ✅Research network scanner tools
+        ✅Use wireshark to capture packets between VMS.
         
         **DEV**
         📝Research and Install an IDE for C dev on the VMs

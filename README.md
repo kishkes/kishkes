@@ -14,6 +14,7 @@ I am using Github to showcase my 𝓯𝓪𝓷𝓽𝓪𝓫𝓾𝓵𝓸𝓾𝓼 pr
         ✅Install VirtualBox
         ✅Research and choose Linux distros good for pen-testing, network projects, and C programming
         ✅Spin up 2 Kali Linux VMs on VirtualBox
+        ✅12/23/2024 -> snapshots taken of VMs
 
         **NETWORK**
         ✅Research and develop plan for how to isolate these VMs into their own environment
